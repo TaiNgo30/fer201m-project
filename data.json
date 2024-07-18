@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "password1"
+    },
+    {
+      "id": "5cd2",
+      "username": "admin1",
+      "password": "123456"
+    }
+  ],
+  "mainFeaturedPost": {
+    "title": "New Godzilla Movie Footage Shows Kaiju Growing Spikes & Weaponizing His Tail",
+    "description": "New footage from Godzilla Minus One shows the titular kaiju growing spikes and weaponizing his tail, teasing his vast amount of destruction.",
+    "image": "https://cdn.theatlantic.com/thumbor/H4UQQ6T6Kl9EmOdk7aZWCYUHhLc=/348x0:2481x1200/1600x900/media/img/mt/2019/05/rev_1_GKM_FP_201r_High_Res_JPEG/original.jpg",
+    "imageText": "main image description",
+    "linkText": "Continue reading…"
+  },
+  "featuredPosts": [
+    {
+      "id": "1",
+      "title": "‘Spider-Man: Across the Spider-Verse’ Sets Netflix Streaming Debut",
+      "date": "Nov 12",
+      "description": "Months after dominating at the box office, the superhero sequel will premiere Oct. 31 on the streaming service only in the U.S",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_QL75_UX280_CR0,1,280,414_.jpg",
+      "imageLabel": "Image Text"
+    },
+    {
+      "id": "2",
+      "title": "Hayao Miyazaki’s ‘The Boy and the Heron’ English Voice Cast Includes Christian Bale",
+      "date": "Nov 11",
+      "description": "Through encounters with his friends and uncle, follows a teenage boy psychological development. He enters a magical world.",
+      "image": "https://assets-prd.ignimgs.com/2023/10/17/unnamed-1697573443477.jpg",
+      "imageLabel": "Image Text"
+    },
+    {
+      "id": 1720663201719,
+      "title": "Test",
+      "date": "Jul",
+      "description": "Hello",
+      "image": "https://images2.thanhnien.vn/528068263637045248/2024/1/17/ngoc-trinh-19-17054720366051661486111.jpg",
+      "imageLabel": "Image Text"
+    }
+  ]
+}
